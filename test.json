@@ -1,7 +1,7 @@
 {
-    "url": "http://localhost/Swagger/test.yaml",
+    "url": "https://github.com/catchmei/Swagger/blob/main/test.yaml",
     "urls": [{
-        "url": "http://localhost/Swagger/test.yaml",
+        "url": "https://github.com/catchmei/Swagger/blob/main/test.yaml",
         "name": "Foo"
     }]
 }
